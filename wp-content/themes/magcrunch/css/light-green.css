@@ -1,0 +1,48 @@
+a,
+.block .read-more,
+.byline a,
+#popular_posts a.grv_article_title:hover,
+ #related_posts a.grv_article_title:hover,
+ h2 a:focus, h2 a:hover, h3 a:focus, h3 a:hover, h4 a:focus, h4 a:hover, h5 a:focus, h5 a:hover, h6 a:focus, h6 a:hover
+ .block h2 a:focus, .block h2 a:hover, .block h3 a:focus, .block h3 a:hover, .block h4 a:focus, .block h4 a:hover,
+ .block-small a:focus, .block-small a:hover,
+ .post-edit-link,.text a,.text a:focus, .text a:hover,.toggle-link:focus, .toggle-link:hover,.paging-navigation .page-numbers.current,
+ .header-tip a:focus, .header-tip a:hover,
+ .paging-navigation a:hover {
+	color: #6AB980;
+}
+.paging-navigation a.next:hover {
+	color: #fff;
+}
+.block-inset:focus .block-title, .block-inset:hover .block-title, .feature-play-icon .icon-video-play:before, .play-banner .icon-video-play:before, .river .thumb:focus .feature-play-icon .icon-video-play:before, .river .thumb:focus .gallery-view-banner, .river .thumb:focus .play-banner, .river .thumb:hover .feature-play-icon .icon-video-play:before, .river .thumb:hover .gallery-view-banner, .river .thumb:hover .play-banner, .thumb .feature-gallery .icon-gallery-view,.sub-menu a:hover,
+.search-form .search-submit:hover,.header .search-form .search-submit:hover,.paging-navigation a.next,.announcement.announcement-grey-background .lc,.next-story-link:focus, .next-story-link:hover,
+button:focus, button:hover, input[type=submit]:focus, input[type=submit]:hover {
+	background-color: #6AB980;
+}
+
+.text a:focus, .text a:hover {
+	border-color: #6AB980;
+}
+
+/* do not group these rules */
+*::-webkit-input-placeholder {
+    color: #6AB980!important;
+}
+*:-moz-placeholder {
+    /* FF 4-18 */
+    color: #6AB980!important;
+}
+*::-moz-placeholder {
+    /* FF 19+ */
+    color: #6AB980!important;
+}
+*:-ms-input-placeholder {
+    /* IE 10+ */
+    color: #6AB980!important;
+}
+
+@media (max-width: 93em) {
+	.next-story-link:focus:after, .next-story-link:hover:after {
+		border-left: 8px solid #6AB980;
+	}
+}

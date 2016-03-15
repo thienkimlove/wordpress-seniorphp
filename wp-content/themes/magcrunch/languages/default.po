@@ -1,0 +1,882 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MagCrunch\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-16 14:14+0800\n"
+"PO-Revision-Date: 2014-12-16 14:14+0800\n"
+"Last-Translator: leo <441968345@qq.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;gettext;gettext_noop;__;_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: 404.php:28
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:45
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive.php:29
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:32
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:35
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:35
+msgid "F Y"
+msgstr ""
+
+#: archive.php:38
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:38
+msgid "Y"
+msgstr ""
+
+#: archive.php:41
+msgid "Asides"
+msgstr ""
+
+#: archive.php:44
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:47
+msgid "Images"
+msgstr ""
+
+#: archive.php:50
+msgid "Videos"
+msgstr ""
+
+#: archive.php:53
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:56
+msgid "Links"
+msgstr ""
+
+#: archive.php:59
+msgid "Statuses"
+msgstr ""
+
+#: archive.php:62
+msgid "Audios"
+msgstr ""
+
+#: archive.php:65
+msgid "Chats"
+msgstr ""
+
+#: archive.php:68
+msgid "Archives"
+msgstr ""
+
+#: author.php:23
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: comments.php:45
+#: comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:46
+#: comments.php:63
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:47
+#: comments.php:64
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: content-page.php:17
+#: content-single.php:70
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:23
+#: content-single.php:45
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:36
+#, php-format
+msgid "Posted <time datetime=\"%1$s\" class=\"timestamp\">%2$s ago</time> by <a href=\"%3$s\" title=\"Posts by %4$s\" rel=\"author\">%4$s</a>"
+msgstr ""
+
+#: content-single.php:54
+msgid "Next Story"
+msgstr ""
+
+#: content.php:21
+#, php-format
+msgid "by <a href=\"%2$s\" title=\"Posts by %1$s\" rel=\"author\">%1$s</a>"
+msgstr ""
+
+#: footer.php:28
+#: options.php:174
+#, php-format
+msgid "Made with &hearts; from <a href=\"%s\" rel=\"designer\" target=\"_blank\">99theme</a>"
+msgstr ""
+
+#: functions.php:140
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:141
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:177
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:179
+msgid "Appears at the right on Homepage and Archive pages."
+msgstr ""
+
+#: functions.php:187
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:189
+msgid "Appears on the right sidebar in single post/page."
+msgstr ""
+
+#: functions.php:197
+msgid "Comment Sidebar"
+msgstr ""
+
+#: functions.php:199
+msgid "Appears on the right of comment section"
+msgstr ""
+
+#: functions.php:207
+msgid "Footer Sidebar"
+msgstr ""
+
+#: functions.php:209
+msgid "Appears in the Footer section. You can add up to 3 widgets here."
+msgstr ""
+
+#: functions.php:217
+msgid "Header Ad"
+msgstr ""
+
+#: functions.php:219
+msgid "Appears on the header. Recommended Size: 728x90."
+msgstr ""
+
+#: functions.php:226
+msgid "Post List Ad"
+msgstr ""
+
+#: functions.php:228
+msgid "Appears in the post list. Recommended Width: 300px."
+msgstr ""
+
+#: functions.php:236
+msgid "Content End Ad"
+msgstr ""
+
+#: functions.php:238
+msgid "Appears at the end of post content in single post/page."
+msgstr ""
+
+#: functions.php:245
+msgid "Blog Sidebar Ad"
+msgstr ""
+
+#: functions.php:247
+msgid "Appears at the top of right sidebar in single post/page."
+msgstr ""
+
+#: header.php:29
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:44
+msgid "Menu"
+msgstr ""
+
+#: header.php:45
+#: header.php:53
+#: header.php:54
+#: header.php:58
+msgid "Search"
+msgstr ""
+
+#: options.php:32
+msgid "One"
+msgstr ""
+
+#: options.php:33
+msgid "Two"
+msgstr ""
+
+#: options.php:34
+msgid "Three"
+msgstr ""
+
+#: options.php:35
+msgid "Four"
+msgstr ""
+
+#: options.php:36
+msgid "Five"
+msgstr ""
+
+#: options.php:41
+msgid "Blue"
+msgstr ""
+
+#: options.php:42
+msgid "Red"
+msgstr ""
+
+#: options.php:43
+msgid "Green"
+msgstr ""
+
+#: options.php:44
+msgid "Purple"
+msgstr ""
+
+#: options.php:49
+msgid "Wordpress Comment"
+msgstr ""
+
+#: options.php:50
+msgid "Facebook Comment"
+msgstr ""
+
+#: options.php:51
+msgid "Disqus Comment"
+msgstr ""
+
+#: options.php:112
+msgid "General Settings"
+msgstr ""
+
+#: options.php:116
+msgid "Choose Color Scheme"
+msgstr ""
+
+#: options.php:117
+msgid "Select the color scheme for your website. Default: Blue"
+msgstr ""
+
+#: options.php:125
+msgid "Logo"
+msgstr ""
+
+#: options.php:126
+msgid "Upload a main logo, or specify an image URL directly. <b>Size: 180x90</b>"
+msgstr ""
+
+#: options.php:131
+msgid "Favicon"
+msgstr ""
+
+#: options.php:132
+msgid "Upload a 16px x 16px Png/Gif image that will represent your website's favicon."
+msgstr ""
+
+#: options.php:137
+msgid "Apple Touch Icon"
+msgstr ""
+
+#: options.php:138
+msgid "Upload an image, or specify an image URL directly. This image is the favicon of mobile devices and tablets. <b>Size: 152x152</b>"
+msgstr ""
+
+#: options.php:143
+msgid "Enable Infinite Scroll"
+msgstr ""
+
+#: options.php:144
+msgid "Check this to enable infinite scroll feature, or it will use default wordpress pagination instead."
+msgstr ""
+
+#: options.php:150
+msgid "Google Analytics"
+msgstr ""
+
+#: options.php:151
+msgid "Please enter in your google analytics tracking code <b>(other tracking codes are also supported)</b> here. Remember to include the entire script from google, if you just enter your tracking ID it won't work."
+msgstr ""
+
+#: options.php:171
+msgid "Footer Copyright Texts"
+msgstr ""
+
+#: options.php:172
+#, php-format
+msgid "Default: Made with &hearts; from <a href=\"%s\" rel=\"designer\" target=\"_blank\">99theme</a>"
+msgstr ""
+
+#: options.php:180
+msgid "Blog Settings"
+msgstr ""
+
+#: options.php:184
+msgid "Enable AddThis Sharing"
+msgstr ""
+
+#: options.php:185
+msgid "Check this to enable AddThis Sharing tools and sharing buttons will display in your website once you configure it correctly. If you want to use other sharing tools or plugins, you can uncheck this. Please also note that AddThis Buttons will not display in Infinite Scroll mode."
+msgstr ""
+
+#: options.php:192
+msgid "AddThis Pub Key"
+msgstr ""
+
+#: options.php:193
+#, php-format
+msgid "Required if you have checked above option. You can find your Pub Key in <a href=\"%1$s\">AddThis dashboard</a>."
+msgstr ""
+
+#: options.php:200
+msgid "Show Post Meta (Author, Date)"
+msgstr ""
+
+#: options.php:201
+msgid "Check this to show post meta at the beginning of post content."
+msgstr ""
+
+#: options.php:207
+msgid "Related Posts"
+msgstr ""
+
+#: options.php:208
+msgid "Check this to display a Related Posts section at the end of post content."
+msgstr ""
+
+#: options.php:215
+msgid "Choose Comment Form"
+msgstr ""
+
+#: options.php:216
+msgid "Default: Wordpress Comment. If you want to use Disqus Comment, you have to enter your Disqus Shortname in below field."
+msgstr ""
+
+#: options.php:225
+msgid "Disqus Shortname"
+msgstr ""
+
+#: options.php:226
+#, php-format
+msgid " Required if you have checked to use Disqus Comment. Disqus Shortname is the unique identifier for your website as registered on Disqus. If undefined, the Disqus embed will not load. For more information, visit <a href=\"%1$s\" target=_blank>https://disqus.com/</a>"
+msgstr ""
+
+#: options.php:232
+msgid "Announcement Settings"
+msgstr ""
+
+#: options.php:236
+msgid "Display Announcement"
+msgstr ""
+
+#: options.php:237
+msgid "Check this to show an announcement at the top of main content area."
+msgstr ""
+
+#: options.php:243
+msgid "Announcement Title"
+msgstr ""
+
+#: options.php:244
+msgid "Enter in the Announcement Title here"
+msgstr ""
+
+#: options.php:250
+msgid "Announcement Sub-Title"
+msgstr ""
+
+#: options.php:251
+msgid "Enter in the Announcement Sub-Title here"
+msgstr ""
+
+#: options.php:257
+msgid "Announcement link"
+msgstr ""
+
+#: options.php:258
+msgid "This is where the users would be redirected to once click this announcement."
+msgstr ""
+
+#: options.php:263
+msgid "Ad Settings"
+msgstr ""
+
+#: options.php:267
+msgid "Settings Guide"
+msgstr ""
+
+#: options.php:268
+msgid "All ad places are defined in the <i><b>Appearance > Widgets</b></i> Panel. Enter your ad codes in the revalent widget area by adding a <i><b>Text</i></b> Widget."
+msgstr ""
+
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:69
+msgid "Up Next"
+msgstr ""
+
+#: single.php:77
+#, php-format
+msgid "Posted <time datetime=\"%1$s\" class=\"timestamp\">%2$s ago</time>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:196
+#: inc/ct-functions.php:289
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:197
+#: inc/ct-functions.php:290
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:198
+#: inc/ct-functions.php:291
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:210
+#: inc/ct-functions.php:303
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:212
+#: inc/class-tgm-plugin-activation.php:1965
+#: inc/ct-functions.php:304
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:213
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:556
+#: inc/class-tgm-plugin-activation.php:2182
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1186
+msgid "Private Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1189
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1194
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1197
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1197
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1200
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1202
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1304
+#: inc/class-tgm-plugin-activation.php:1412
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1326
+#: inc/class-tgm-plugin-activation.php:1413
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1375
+#, php-format
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1391
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1392
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1393
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1394
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1522
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1630
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1948
+msgid "Install package not available."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1949
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1950
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1951
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1952
+msgid "Plugin install failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1953
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1964
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2078
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2079
+#: inc/class-tgm-plugin-activation.php:2088
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2079
+#: inc/class-tgm-plugin-activation.php:2088
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2080
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2085
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2086
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2087
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2088
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2089
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2090
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/ct-functions.php:57
+msgid "Prev"
+msgstr ""
+
+#: inc/ct-functions.php:58
+msgid "Next"
+msgstr ""
+
+#: inc/ct-functions.php:65
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/ct-functions.php:292
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/ct-functions.php:305
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/ct-functions.php:366
+msgid "Is this a featured post?"
+msgstr ""
+
+#: inc/ct-functions.php:395
+msgid "Yes, this post is featured!"
+msgstr ""
+
+#: inc/ct-functions.php:481
+#: inc/ct-functions.php:494
+#, php-format
+msgid "by %1$s"
+msgstr ""
+
+#: inc/ct-functions.php:550
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/ct-functions.php:644
+msgid "Recommended For You"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:55
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:82
+#, php-format
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:87
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:198
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-framework-admin.php:91
+#: inc/options-framework/includes/class-options-framework-admin.php:92
+msgid "Theme Options"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-framework-admin.php:204
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-framework-admin.php:235
+msgid "Default options restored."
+msgstr ""
+
+#: inc/options-framework/includes/class-options-framework-admin.php:289
+msgid "Options saved."
+msgstr ""
+
+#: inc/options-framework/includes/class-options-media-uploader.php:62
+msgid "No file chosen"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-media-uploader.php:65
+#: inc/options-framework/includes/class-options-media-uploader.php:118
+msgid "Upload"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-media-uploader.php:67
+#: inc/options-framework/includes/class-options-media-uploader.php:119
+msgid "Remove"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-media-uploader.php:70
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/options-framework/includes/class-options-media-uploader.php:94
+msgid "View File"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-sanitization.php:316
+msgid "No Repeat"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-sanitization.php:317
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-sanitization.php:318
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-sanitization.php:319
+msgid "Repeat All"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-sanitization.php:331
+msgid "Top Left"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-sanitization.php:332
+msgid "Top Center"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-sanitization.php:333
+msgid "Top Right"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-sanitization.php:334
+msgid "Middle Left"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-sanitization.php:335
+msgid "Middle Center"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-sanitization.php:336
+msgid "Middle Right"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-sanitization.php:337
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-sanitization.php:338
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-sanitization.php:339
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-sanitization.php:351
+msgid "Scroll Normally"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-sanitization.php:352
+msgid "Fixed in Place"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-sanitization.php:424
+msgid "Normal"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-sanitization.php:425
+msgid "Italic"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-sanitization.php:426
+msgid "Bold"
+msgstr ""
+
+#: inc/options-framework/includes/class-options-sanitization.php:427
+msgid "Bold Italic"
+msgstr ""
+
