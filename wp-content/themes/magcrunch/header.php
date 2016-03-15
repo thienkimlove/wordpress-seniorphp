@@ -32,16 +32,7 @@
 		<div class="nav-bar">
 			<div class="lc">
 				<div class="header-logo-bar">
-					<!--<?php dynamic_sidebar( 'header-ad' ); ?>-->
-					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-					<!-- Preview -->
-					<ins class="adsbygoogle"
-						 style="display:inline-block;width:728px;height:90px"
-						 data-ad-client="ca-pub-6984203717480217"
-						 data-ad-slot="3403321885"></ins>
-					<script>
-						(adsbygoogle = window.adsbygoogle || []).push({});
-					</script>
+					<?php dynamic_sidebar( 'header-ad' ); ?>
 					<a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="logo-link" title="<?php bloginfo( 'name' ); ?>" rel="home">
 						<img src="<?php if (of_get_option('logo')) {echo of_get_option('logo');} else {echo get_template_directory_uri().'/images/logo.png';}?>" width="180px" height="90px" alt="<?php bloginfo( 'name' ); ?>" class="logo">
 					</a>
