@@ -157,14 +157,15 @@ address {
 }
 pre {
 	background: #eee;
-	font-family: "Courier 10 Pitch", Courier, monospace;
+	#font-family: "Courier 10 Pitch", Courier, monospace;
+        font-family : Consolas,Monaco,"Andale Mono",monospace;   
 	font-size: 15px;
-	font-size: 1.5rem;
-	line-height: 1.6;
-	margin-bottom: 1.6em;
+	font-size: 1.0rem;
+	line-height: 1.0em;
+	margin-bottom: 1.0em;
 	max-width: 100%;
 	overflow: auto;
-	padding: 1.6em;
+	padding: 1.0em;
 }
 code, kbd, tt, var {
 	font: 15px Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
